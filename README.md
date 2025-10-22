@@ -108,7 +108,7 @@ VITE_API_URL=http://localhost:5000
 ## 🌍 Deployment
 
 The project is deployed on **Netlify:**
-🔗 [https://taskmanager-dashboard.netlify.app]
+🔗 [https://plptask-dashboard.netlify.app]
 
 ---
 
@@ -125,7 +125,7 @@ The project is deployed on **Netlify:**
 
 ## ⚖️ License
 
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License.
 © 2025 Abdullahi Abdulganiyu. All rights reserved.
 
 ---
